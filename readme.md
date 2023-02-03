@@ -3,7 +3,7 @@ There are three python files in the repository:
 - emoji_map.py: Define some mappings, such as the mapping between emoji and the mood.
 - dbhelper.py: Define the database operations.
 
-The folder resources contains the database.
+The folder resources contains the database. It is not uploaded here.
 
 Following the steps to run and use the chatbot:
 1. Run the model with '''python main.py'''
